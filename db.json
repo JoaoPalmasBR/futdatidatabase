@@ -1,0 +1,12 @@
+{
+  "atleta":[
+    {
+      "id" : 0,
+      "nome": "JOAO ANTONIO DOS SANTOS ILARIO",
+      "cpf": "033.423.151-56",
+      "cgu": "105955510",
+      "telefone" : "+5563984226152",
+      "email": "joaoantonios74@gmail.com"
+    }
+  ]
+}
